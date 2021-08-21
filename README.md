@@ -41,7 +41,7 @@ Write an SQL statement to list the contents of the orders table and send the out
 
 ### Support or Contact
 
-In completing this artifact, I gained a better understanding of the principles and best practices used to develop high-quality software. For more details, you can download more informatioin in regards to this artifact [Here](https://github.com/FeliciaSchenkelberg/DAD220).
+In completing this artifact, I gained a better understanding of the principles and best practices used to develop high-quality software. For more details, you can download informatioin in regards to this artifact [Here](https://github.com/FeliciaSchenkelberg/DAD220).
 
 
 [Back to Welcome Page](https://feliciaschenkelberg.github.io/).
